@@ -1,5 +1,4 @@
-//// Provided by:  
-// Email Address: 
+//Clas
 // FILE: stats.h
 // CLASS PROVIDED: statistician
 //   (a class to keep track of statistics on a sequence of real numbers)
